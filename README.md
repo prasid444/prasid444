@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ThreeJS,**
 
-- 👨‍💻 All of my projects are available at [prasidhakarki.com](prasidhakarki.com)
+- 👨‍💻 All of my projects are available at [https://prasidhakarki.com](https://prasidhakarki.com)
 
 - 📫 How to reach me **prasidkarki95@gmail.com**
 
